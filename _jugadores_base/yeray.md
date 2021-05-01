@@ -4,16 +4,16 @@ nombre: Yeray
 apellidos: Cabanzon
 nacionalidad: España
 demarcacion: Media punta
-estatura:
+estatura: 1,72
 equipo_actual: Real Racing Club DH
 fecha_de_nacimiento: 2003/05/14
 pie: izquierdo
-foto: yeray.jpg
+foto: yeray.jpeg
 estudios:
 
 trayectoria: 2019 - 2020#Racing Santander LN
 titulos:
 logros: 
 
-video:
+video: https://www.youtube.com/watch?v=9WOUX7nqrE8
 ---
