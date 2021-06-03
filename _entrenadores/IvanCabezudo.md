@@ -5,7 +5,7 @@ apellidos: Cabezudo
 nacionalidad: Español
 demarcacion: Entrenador
 estatura: 
-equipo_actual:  Sin Equipo
+equipo_actual:  Lugo CF
 fecha_de_nacimiento: 1988/01/09
 pie: 
 foto: IvanCabezudo.jpg
